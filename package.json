@@ -1,0 +1,17 @@
+{
+  "name": "legitbot",
+  "version": "1.0.0",
+  "description": "Sample Project NEW BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "malware_e47",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "quick-db.json": "^1.0.4",
+    "save": "^2.4.0"
+  }
+}
