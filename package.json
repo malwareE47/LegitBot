@@ -11,6 +11,7 @@
   "dependencies": {
     "discord.js": "^12.2.0",
     "fs": "0.0.1-security",
+    "parse-ms": "^2.1.0",
     "quick-db.json": "^1.0.4",
     "save": "^2.4.0"
   }
